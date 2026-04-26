@@ -1,0 +1,528 @@
+[
+  {
+    "page_content": "Product: AquaShield Hiking Boots\nBrand: TrailMaster\nCategory: Footwear\nPrice: \u20b91899\nRating: 4.5 / 5\nFeatures: waterproof, anti-slip sole, ankle support, breathable, lightweight\nTags: hiking, trekking, outdoor, waterproof, boots\nDescription: Premium waterproof hiking boots with anti-slip rubber sole. Features breathable Gore-Tex lining and reinforced ankle support. Ideal for trekking, mountaineering, and trail hiking in wet and rough terrain.",
+    "metadata": {
+      "id": "P001",
+      "name": "AquaShield Hiking Boots",
+      "brand": "TrailMaster",
+      "category": "Footwear",
+      "price": 1899,
+      "currency": "INR",
+      "rating": 4.5,
+      "features": [
+        "waterproof",
+        "anti-slip sole",
+        "ankle support",
+        "breathable",
+        "lightweight"
+      ],
+      "tags": [
+        "hiking",
+        "trekking",
+        "outdoor",
+        "waterproof",
+        "boots"
+      ]
+    }
+  },
+  {
+    "page_content": "Product: CloudWalk Running Shoes\nBrand: SpeedFit\nCategory: Footwear\nPrice: \u20b91299\nRating: 4.2 / 5\nFeatures: lightweight, cushioned sole, breathable mesh, flexible\nTags: running, gym, sports, lightweight, shoes\nDescription: Ultra-lightweight running shoes with memory foam cushioning. Breathable mesh upper keeps feet cool during long runs. Flexible sole adapts to your natural foot movement. Perfect for road running and gym workouts.",
+    "metadata": {
+      "id": "P002",
+      "name": "CloudWalk Running Shoes",
+      "brand": "SpeedFit",
+      "category": "Footwear",
+      "price": 1299,
+      "currency": "INR",
+      "rating": 4.2,
+      "features": [
+        "lightweight",
+        "cushioned sole",
+        "breathable mesh",
+        "flexible"
+      ],
+      "tags": [
+        "running",
+        "gym",
+        "sports",
+        "lightweight",
+        "shoes"
+      ]
+    }
+  },
+  {
+    "page_content": "Product: RainGuard Jacket Pro\nBrand: WeatherShield\nCategory: Clothing\nPrice: \u20b91750\nRating: 4.7 / 5\nFeatures: waterproof, windproof, packable, hooded, reflective strips\nTags: hiking, rain, outdoor, waterproof, jacket, cycling\nDescription: Heavy-duty waterproof jacket with sealed seams and windproof shell. Packs into its own pocket for easy storage. Adjustable hood, reflective strips for night visibility. Ideal for hiking, cycling, and everyday rainy weather.",
+    "metadata": {
+      "id": "P003",
+      "name": "RainGuard Jacket Pro",
+      "brand": "WeatherShield",
+      "category": "Clothing",
+      "price": 1750,
+      "currency": "INR",
+      "rating": 4.7,
+      "features": [
+        "waterproof",
+        "windproof",
+        "packable",
+        "hooded",
+        "reflective strips"
+      ],
+      "tags": [
+        "hiking",
+        "rain",
+        "outdoor",
+        "waterproof",
+        "jacket",
+        "cycling"
+      ]
+    }
+  },
+  {
+    "page_content": "Product: TrailBlaze Backpack 40L\nBrand: AdventureGear\nCategory: Bags\nPrice: \u20b92200\nRating: 4.6 / 5\nFeatures: waterproof, ergonomic straps, multiple compartments, hydration bladder compatible, rain cover included\nTags: hiking, trekking, backpack, outdoor, camping\nDescription: 40-liter trekking backpack with waterproof base and rain cover. Ergonomic padded shoulder straps and hip belt for load distribution. Includes hydration bladder slot, multiple zip pockets, and external attachment points for trekking poles.",
+    "metadata": {
+      "id": "P004",
+      "name": "TrailBlaze Backpack 40L",
+      "brand": "AdventureGear",
+      "category": "Bags",
+      "price": 2200,
+      "currency": "INR",
+      "rating": 4.6,
+      "features": [
+        "waterproof",
+        "ergonomic straps",
+        "multiple compartments",
+        "hydration bladder compatible",
+        "rain cover included"
+      ],
+      "tags": [
+        "hiking",
+        "trekking",
+        "backpack",
+        "outdoor",
+        "camping"
+      ]
+    }
+  },
+  {
+    "page_content": "Product: SunPeak Hiking Cap\nBrand: OutdoorStyle\nCategory: Accessories\nPrice: \u20b9399\nRating: 4.1 / 5\nFeatures: UV protection, quick-dry, adjustable strap, sweat-wicking\nTags: hiking, cap, outdoor, sun protection, accessories\nDescription: Lightweight hiking cap with UPF 50+ UV protection. Quick-dry fabric with sweat-wicking inner band. Adjustable rear strap for perfect fit. Suitable for hiking, running, and outdoor sports.",
+    "metadata": {
+      "id": "P005",
+      "name": "SunPeak Hiking Cap",
+      "brand": "OutdoorStyle",
+      "category": "Accessories",
+      "price": 399,
+      "currency": "INR",
+      "rating": 4.1,
+      "features": [
+        "UV protection",
+        "quick-dry",
+        "adjustable strap",
+        "sweat-wicking"
+      ],
+      "tags": [
+        "hiking",
+        "cap",
+        "outdoor",
+        "sun protection",
+        "accessories"
+      ]
+    }
+  },
+  {
+    "page_content": "Product: NightHike Headlamp 300LM\nBrand: LumiGear\nCategory: Accessories\nPrice: \u20b9799\nRating: 4.4 / 5\nFeatures: waterproof, 300 lumens, rechargeable, adjustable beam, red light mode\nTags: hiking, camping, night, waterproof, headlamp, outdoor\nDescription: Powerful 300-lumen LED headlamp with IPX6 waterproof rating. USB rechargeable with 8-hour battery life. Features adjustable beam angle, multiple brightness modes, and red light mode for night vision preservation. Essential for night hiking and camping.",
+    "metadata": {
+      "id": "P006",
+      "name": "NightHike Headlamp 300LM",
+      "brand": "LumiGear",
+      "category": "Accessories",
+      "price": 799,
+      "currency": "INR",
+      "rating": 4.4,
+      "features": [
+        "waterproof",
+        "300 lumens",
+        "rechargeable",
+        "adjustable beam",
+        "red light mode"
+      ],
+      "tags": [
+        "hiking",
+        "camping",
+        "night",
+        "waterproof",
+        "headlamp",
+        "outdoor"
+      ]
+    }
+  },
+  {
+    "page_content": "Product: ThermoFlask Water Bottle 1L\nBrand: HydraMax\nCategory: Accessories\nPrice: \u20b9649\nRating: 4.3 / 5\nFeatures: insulated, leakproof, BPA free, wide mouth, carry loop\nTags: water bottle, hiking, gym, outdoor, insulated\nDescription: Double-wall vacuum insulated stainless steel bottle. Keeps drinks cold 24 hours and hot 12 hours. Leakproof lid with carry loop. Wide mouth for easy filling and cleaning. BPA-free and food-grade safe.",
+    "metadata": {
+      "id": "P007",
+      "name": "ThermoFlask Water Bottle 1L",
+      "brand": "HydraMax",
+      "category": "Accessories",
+      "price": 649,
+      "currency": "INR",
+      "rating": 4.3,
+      "features": [
+        "insulated",
+        "leakproof",
+        "BPA free",
+        "wide mouth",
+        "carry loop"
+      ],
+      "tags": [
+        "water bottle",
+        "hiking",
+        "gym",
+        "outdoor",
+        "insulated"
+      ]
+    }
+  },
+  {
+    "page_content": "Product: FlexFit Yoga Mat\nBrand: ZenFlex\nCategory: Fitness\nPrice: \u20b9899\nRating: 4.5 / 5\nFeatures: non-slip, extra thick 6mm, eco-friendly, carry strap included, sweat resistant\nTags: yoga, fitness, gym, exercise, mat\nDescription: Premium 6mm thick eco-friendly yoga mat with non-slip texture on both sides. Sweat-resistant surface for hot yoga. Includes carry strap. Made from natural rubber, free from harmful chemicals.",
+    "metadata": {
+      "id": "P008",
+      "name": "FlexFit Yoga Mat",
+      "brand": "ZenFlex",
+      "category": "Fitness",
+      "price": 899,
+      "currency": "INR",
+      "rating": 4.5,
+      "features": [
+        "non-slip",
+        "extra thick 6mm",
+        "eco-friendly",
+        "carry strap included",
+        "sweat resistant"
+      ],
+      "tags": [
+        "yoga",
+        "fitness",
+        "gym",
+        "exercise",
+        "mat"
+      ]
+    }
+  },
+  {
+    "page_content": "Product: PowerLift Resistance Bands Set\nBrand: FitPro\nCategory: Fitness\nPrice: \u20b9549\nRating: 4.2 / 5\nFeatures: 5 resistance levels, latex free, portable, includes carry bag, handles and ankle straps\nTags: fitness, gym, resistance bands, home workout, strength training\nDescription: Set of 5 resistance bands with different tension levels from light to extra heavy. Latex-free and skin-safe. Includes door anchor, handles, and ankle straps. Perfect for home workouts, physical therapy, and strength training.",
+    "metadata": {
+      "id": "P009",
+      "name": "PowerLift Resistance Bands Set",
+      "brand": "FitPro",
+      "category": "Fitness",
+      "price": 549,
+      "currency": "INR",
+      "rating": 4.2,
+      "features": [
+        "5 resistance levels",
+        "latex free",
+        "portable",
+        "includes carry bag",
+        "handles and ankle straps"
+      ],
+      "tags": [
+        "fitness",
+        "gym",
+        "resistance bands",
+        "home workout",
+        "strength training"
+      ]
+    }
+  },
+  {
+    "page_content": "Product: CampCook Portable Stove\nBrand: WildChef\nCategory: Camping\nPrice: \u20b91599\nRating: 4.6 / 5\nFeatures: compact, windproof, piezo ignition, foldable legs, compatible with standard gas canisters\nTags: camping, cooking, outdoor, stove, backpacking\nDescription: Ultra-compact backpacking stove with windproof burner. Piezo auto-ignition for one-click start. Foldable legs and pot support. Works with standard screw-top gas canisters. Boils 1 liter in under 3 minutes. Ideal for solo and group camping trips.",
+    "metadata": {
+      "id": "P010",
+      "name": "CampCook Portable Stove",
+      "brand": "WildChef",
+      "category": "Camping",
+      "price": 1599,
+      "currency": "INR",
+      "rating": 4.6,
+      "features": [
+        "compact",
+        "windproof",
+        "piezo ignition",
+        "foldable legs",
+        "compatible with standard gas canisters"
+      ],
+      "tags": [
+        "camping",
+        "cooking",
+        "outdoor",
+        "stove",
+        "backpacking"
+      ]
+    }
+  },
+  {
+    "page_content": "Product: SleepEasy Sleeping Bag -5\u00c2\u00b0C\nBrand: RestWell\nCategory: Camping\nPrice: \u20b91950\nRating: 4.4 / 5\nFeatures: rated to -5\u00c2\u00b0C, lightweight, compression sack included, water resistant shell, mummy shape\nTags: camping, sleeping bag, outdoor, cold weather, hiking\nDescription: Mummy-style sleeping bag rated to -5\u00c2\u00b0C for cold weather camping. Lightweight hollow-fiber fill with water-resistant ripstop shell. Packs down small in included compression sack. Draft collar and hood drawstring for heat retention.",
+    "metadata": {
+      "id": "P011",
+      "name": "SleepEasy Sleeping Bag -5\u00c2\u00b0C",
+      "brand": "RestWell",
+      "category": "Camping",
+      "price": 1950,
+      "currency": "INR",
+      "rating": 4.4,
+      "features": [
+        "rated to -5\u00c2\u00b0C",
+        "lightweight",
+        "compression sack included",
+        "water resistant shell",
+        "mummy shape"
+      ],
+      "tags": [
+        "camping",
+        "sleeping bag",
+        "outdoor",
+        "cold weather",
+        "hiking"
+      ]
+    }
+  },
+  {
+    "page_content": "Product: WristPulse Fitness Tracker\nBrand: VitalBand\nCategory: Electronics\nPrice: \u20b91999\nRating: 4.3 / 5\nFeatures: heart rate monitor, waterproof IP68, sleep tracking, 7-day battery, step counter, smartphone notifications\nTags: fitness tracker, smartwatch, waterproof, health, electronics\nDescription: Advanced fitness tracker with continuous heart rate monitoring and SpO2 sensor. IP68 waterproof rating for swimming. Tracks steps, calories, sleep quality, and multiple sports modes. 7-day battery life. Syncs with Android and iOS.",
+    "metadata": {
+      "id": "P012",
+      "name": "WristPulse Fitness Tracker",
+      "brand": "VitalBand",
+      "category": "Electronics",
+      "price": 1999,
+      "currency": "INR",
+      "rating": 4.3,
+      "features": [
+        "heart rate monitor",
+        "waterproof IP68",
+        "sleep tracking",
+        "7-day battery",
+        "step counter",
+        "smartphone notifications"
+      ],
+      "tags": [
+        "fitness tracker",
+        "smartwatch",
+        "waterproof",
+        "health",
+        "electronics"
+      ]
+    }
+  },
+  {
+    "page_content": "Product: QuickDry Trekking Towel\nBrand: DryFast\nCategory: Accessories\nPrice: \u20b9349\nRating: 4.0 / 5\nFeatures: quick-dry, compact, lightweight, antimicrobial, carry pouch included\nTags: hiking, travel, towel, compact, accessories\nDescription: Microfiber trekking towel that dries 5x faster than cotton. Ultra-compact and lightweight, fits in carry pouch. Antimicrobial treatment prevents odors. Suitable for hiking, travel, beach, and gym.",
+    "metadata": {
+      "id": "P013",
+      "name": "QuickDry Trekking Towel",
+      "brand": "DryFast",
+      "category": "Accessories",
+      "price": 349,
+      "currency": "INR",
+      "rating": 4.0,
+      "features": [
+        "quick-dry",
+        "compact",
+        "lightweight",
+        "antimicrobial",
+        "carry pouch included"
+      ],
+      "tags": [
+        "hiking",
+        "travel",
+        "towel",
+        "compact",
+        "accessories"
+      ]
+    }
+  },
+  {
+    "page_content": "Product: GripTrek Trekking Poles\nBrand: SummitGear\nCategory: Equipment\nPrice: \u20b91100\nRating: 4.5 / 5\nFeatures: adjustable height, anti-shock, cork grip, foldable, includes carry bag\nTags: hiking, trekking, poles, outdoor, equipment\nDescription: Pair of lightweight aluminum trekking poles with anti-shock spring mechanism. Adjustable from 65cm to 135cm. Comfortable cork grip with wrist strap. Folds compactly for easy transport. Interchangeable tips for different terrain.",
+    "metadata": {
+      "id": "P014",
+      "name": "GripTrek Trekking Poles",
+      "brand": "SummitGear",
+      "category": "Equipment",
+      "price": 1100,
+      "currency": "INR",
+      "rating": 4.5,
+      "features": [
+        "adjustable height",
+        "anti-shock",
+        "cork grip",
+        "foldable",
+        "includes carry bag"
+      ],
+      "tags": [
+        "hiking",
+        "trekking",
+        "poles",
+        "outdoor",
+        "equipment"
+      ]
+    }
+  },
+  {
+    "page_content": "Product: CoolMesh Sports T-Shirt\nBrand: ActiveWear\nCategory: Clothing\nPrice: \u20b9599\nRating: 4.1 / 5\nFeatures: moisture-wicking, quick-dry, anti-odor, flatlock seams, UPF 30\nTags: sports, gym, running, hiking, t-shirt, clothing\nDescription: Performance sports t-shirt with moisture-wicking polyester mesh. Quick-dry technology keeps you comfortable during intense workouts. Anti-odor treatment and flatlock seams prevent chafing. UPF 30 sun protection. Available in multiple colors.",
+    "metadata": {
+      "id": "P015",
+      "name": "CoolMesh Sports T-Shirt",
+      "brand": "ActiveWear",
+      "category": "Clothing",
+      "price": 599,
+      "currency": "INR",
+      "rating": 4.1,
+      "features": [
+        "moisture-wicking",
+        "quick-dry",
+        "anti-odor",
+        "flatlock seams",
+        "UPF 30"
+      ],
+      "tags": [
+        "sports",
+        "gym",
+        "running",
+        "hiking",
+        "t-shirt",
+        "clothing"
+      ]
+    }
+  },
+  {
+    "page_content": "Product: MudShield Gaiters\nBrand: TrailMaster\nCategory: Footwear\nPrice: \u20b9699\nRating: 4.2 / 5\nFeatures: waterproof, adjustable, compatible with most boots, reinforced sole strap, velcro closure\nTags: hiking, trekking, waterproof, gaiters, outdoor\nDescription: Waterproof trail gaiters that keep mud, water, and debris out of your boots. Compatible with most hiking boots. Adjustable velcro closure and reinforced sole strap for secure fit. Durable ripstop fabric.",
+    "metadata": {
+      "id": "P016",
+      "name": "MudShield Gaiters",
+      "brand": "TrailMaster",
+      "category": "Footwear",
+      "price": 699,
+      "currency": "INR",
+      "rating": 4.2,
+      "features": [
+        "waterproof",
+        "adjustable",
+        "compatible with most boots",
+        "reinforced sole strap",
+        "velcro closure"
+      ],
+      "tags": [
+        "hiking",
+        "trekking",
+        "waterproof",
+        "gaiters",
+        "outdoor"
+      ]
+    }
+  },
+  {
+    "page_content": "Product: SolarCharge Power Bank 20000mAh\nBrand: SunPower\nCategory: Electronics\nPrice: \u20b91799\nRating: 4.4 / 5\nFeatures: solar charging, 20000mAh, waterproof, dual USB output, LED flashlight, rugged design\nTags: electronics, power bank, solar, waterproof, outdoor, camping\nDescription: High-capacity solar power bank with rugged waterproof casing. 20000mAh capacity charges most smartphones 4-5 times. Dual USB output for charging two devices simultaneously. Built-in LED flashlight. Ideal for outdoor adventures and emergencies.",
+    "metadata": {
+      "id": "P017",
+      "name": "SolarCharge Power Bank 20000mAh",
+      "brand": "SunPower",
+      "category": "Electronics",
+      "price": 1799,
+      "currency": "INR",
+      "rating": 4.4,
+      "features": [
+        "solar charging",
+        "20000mAh",
+        "waterproof",
+        "dual USB output",
+        "LED flashlight",
+        "rugged design"
+      ],
+      "tags": [
+        "electronics",
+        "power bank",
+        "solar",
+        "waterproof",
+        "outdoor",
+        "camping"
+      ]
+    }
+  },
+  {
+    "page_content": "Product: CompressLite Packing Cubes Set\nBrand: PackSmart\nCategory: Travel\nPrice: \u20b9799\nRating: 4.3 / 5\nFeatures: set of 4, compression zipper, lightweight, durable nylon, multiple sizes\nTags: travel, packing, backpacking, organization, accessories\nDescription: Set of 4 compression packing cubes in multiple sizes. Double-zip compression reduces packed volume by 60%. Durable ripstop nylon with mesh top panel. Keeps clothes organized and wrinkle-free. Perfect for backpacking and travel.",
+    "metadata": {
+      "id": "P018",
+      "name": "CompressLite Packing Cubes Set",
+      "brand": "PackSmart",
+      "category": "Travel",
+      "price": 799,
+      "currency": "INR",
+      "rating": 4.3,
+      "features": [
+        "set of 4",
+        "compression zipper",
+        "lightweight",
+        "durable nylon",
+        "multiple sizes"
+      ],
+      "tags": [
+        "travel",
+        "packing",
+        "backpacking",
+        "organization",
+        "accessories"
+      ]
+    }
+  },
+  {
+    "page_content": "Product: AeroRide Cycling Helmet\nBrand: SafeRide\nCategory: Sports\nPrice: \u20b91299\nRating: 4.6 / 5\nFeatures: CE certified, adjustable fit, ventilation channels, detachable visor, lightweight EPS foam\nTags: cycling, helmet, sports, safety, outdoor\nDescription: CE certified cycling helmet with 18 ventilation channels for maximum airflow. In-mold EPS foam construction for lightweight protection. Adjustable rear dial fit system. Detachable sun visor. Suitable for road cycling, mountain biking, and commuting.",
+    "metadata": {
+      "id": "P019",
+      "name": "AeroRide Cycling Helmet",
+      "brand": "SafeRide",
+      "category": "Sports",
+      "price": 1299,
+      "currency": "INR",
+      "rating": 4.6,
+      "features": [
+        "CE certified",
+        "adjustable fit",
+        "ventilation channels",
+        "detachable visor",
+        "lightweight EPS foam"
+      ],
+      "tags": [
+        "cycling",
+        "helmet",
+        "sports",
+        "safety",
+        "outdoor"
+      ]
+    }
+  },
+  {
+    "page_content": "Product: WildCamp Tent 2-Person\nBrand: ShelterPro\nCategory: Camping\nPrice: \u20b92999\nRating: 4.7 / 5\nFeatures: waterproof 3000mm, freestanding, double wall, quick setup, vestibule storage, carry bag\nTags: camping, tent, waterproof, hiking, outdoor, trekking\nDescription: Lightweight 2-person backpacking tent with 3000mm waterproof rating. Freestanding double-wall design with inner mesh tent and rainfly. Sets up in under 5 minutes. Vestibule for gear storage. Packed weight 2.1kg. Ideal for 3-season camping and trekking.",
+    "metadata": {
+      "id": "P020",
+      "name": "WildCamp Tent 2-Person",
+      "brand": "ShelterPro",
+      "category": "Camping",
+      "price": 2999,
+      "currency": "INR",
+      "rating": 4.7,
+      "features": [
+        "waterproof 3000mm",
+        "freestanding",
+        "double wall",
+        "quick setup",
+        "vestibule storage",
+        "carry bag"
+      ],
+      "tags": [
+        "camping",
+        "tent",
+        "waterproof",
+        "hiking",
+        "outdoor",
+        "trekking"
+      ]
+    }
+  }
+]
